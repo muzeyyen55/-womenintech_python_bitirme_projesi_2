@@ -90,3 +90,5 @@ Toplam vaka sayısı tablosunda yeni artış oranını tablo halinde gösterdim.
 ![resim-5](https://user-images.githubusercontent.com/77547103/204664263-d580c232-85bc-4a82-93b1-b62a8c29bce1.jpg)
 
 ![resim-6](https://user-images.githubusercontent.com/77547103/204664286-55a92c4f-7d6e-4e0a-807d-699e128c72bb.jpg)
+
+**Detaylı Bilgi İçin: covid.ipynb**
